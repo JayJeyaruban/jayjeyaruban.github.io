@@ -1,7 +1,7 @@
 # Site settings
 title: material
 # baseurl: "/template/" # the subpath of your site, e.g. /blog/
-baseurl: "/template/"
+# baseurl: "/template/"
 url: "http://jayjeyaruban.github.io/template" # the base hostname & protocol for your site
 css: "cyan"
 scroll-cursor: "#00BCD4"
